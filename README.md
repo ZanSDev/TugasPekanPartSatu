@@ -1,2 +1,3 @@
 # TugasPekanPartSatu
-Nama : Fauzan Ahmad Ghani Divisi : AndroidDeveloper
+Nama : Fauzan Ahmad Ghani 
+Divisi : AndroidDeveloper
